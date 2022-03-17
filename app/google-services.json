@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "892095085003",
+    "firebase_url": "https://foodieville2.firebaseio.com",
+    "project_id": "foodieville2",
+    "storage_bucket": "foodieville2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892095085003:android:1a968af8795305ec145e4e",
+        "android_client_info": {
+          "package_name": "com.example.dishi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892095085003-nd0vq3u6sorkm4om12fvflcfoihbkjcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzfbiIR_MHqIYXY5R_o503QJfuRsjXmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892095085003-nd0vq3u6sorkm4om12fvflcfoihbkjcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892095085003:android:73ca963409a8a5b9",
+        "android_client_info": {
+          "package_name": "com.example.foodieville2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892095085003-ai8fj5v01hed2npl097qopdkh51e7oqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodieville2",
+            "certificate_hash": "e39c83f5c3f5a539e92807a26d224a0b1a6f6303"
+          }
+        },
+        {
+          "client_id": "892095085003-nd0vq3u6sorkm4om12fvflcfoihbkjcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzfbiIR_MHqIYXY5R_o503QJfuRsjXmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892095085003-nd0vq3u6sorkm4om12fvflcfoihbkjcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892095085003:android:3f75ed2ef902e367",
+        "android_client_info": {
+          "package_name": "com.example.foodievilleadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892095085003-jb38lh33dsrgbouf7fdg2hqv55i1giv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodievilleadmin",
+            "certificate_hash": "e39c83f5c3f5a539e92807a26d224a0b1a6f6303"
+          }
+        },
+        {
+          "client_id": "892095085003-nd0vq3u6sorkm4om12fvflcfoihbkjcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzfbiIR_MHqIYXY5R_o503QJfuRsjXmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892095085003-nd0vq3u6sorkm4om12fvflcfoihbkjcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
